@@ -51,6 +51,12 @@ public class Neuron {
 
     }
 
+    public void setWeights(double[] weights) {
+        this.weights = weights;
+    }
+    public void setBias(double bias) {
+        this.bias = bias;
+    }
 
 
 }   
