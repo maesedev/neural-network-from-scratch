@@ -1,0 +1,7 @@
+/**
+ * NeuralNetwork
+ */
+public class NeuralNetwork {
+
+    
+}
